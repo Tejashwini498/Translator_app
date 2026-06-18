@@ -19,9 +19,6 @@ A real-time translation application that breaks down language barriers. Translat
 - **Translation API:** Google Cloud Translation / DeepL / LibreTranslate
 - **State Management:** Redux Toolkit / Context API
 
-## Live Demo
-
-[Link to your deployed app]
 
 ## Getting Started
 
@@ -35,5 +32,5 @@ A real-time translation application that breaks down language barriers. Translat
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/translator-app.git
+   git clone https://github.com/Tejashwini498/Translator-app.git
    cd translator-app
